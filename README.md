@@ -1,2 +1,2 @@
-# Python-GUI
-Contains Files for the Fantasy Cricket Application created using Python
+# Fantasy Cricket Application
+Built a Fatasy cricket application using Python GUI programming in PyQt. This was a final project under the training "Programming with Python" offered by Internshala 
